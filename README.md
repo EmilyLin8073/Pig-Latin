@@ -6,7 +6,7 @@ Before you can run the script, you have to create and activate a virtual environ
 
 Mac/Unix: use `python -m venv env` command in the project directory
 
-Windows: use `python -m venv env` command in the project directory
+Windows: use `py -m venv env` command in the project directory
 
 #### For activating a python virtual environment:
 
