@@ -14,4 +14,8 @@ Mac/Unix: use `source env/bin/activate` command in the project directory
 
 Windows: use `.\env\Scripts\activate` command in the project directory
 
-After virtual environment is created, use the `python main.py` to run the script
+After virtual environment is activated, use the `python main.py` to run the script
+
+\*Before you run the script, make sure you put the .txt file that you want to convert in the project directory and replace the `file` variable in the main.py with your file name with file extension.
+
+For example `file = 't8.shakespeare.txt'`
